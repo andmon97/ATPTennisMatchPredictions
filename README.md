@@ -1,4 +1,4 @@
-# ATP TennisMatch Predictions
+# ATP Tennis Match Predictions
 
 Tennis Match Predictions using Machine Learning. 
 This work is part of the Machine Learning exam at the University of bari "Aldo Moro", M.Sc. in Computer Science, academic year 2022.
